@@ -1,0 +1,8 @@
+﻿  stage.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(32,71): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(32,68): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(626,177): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(626,174): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(654,9): warning C4244: 'return': 'short' から 'char' への変換です。データが失われる可能性があります。
+  2d_instruction.vcxproj -> C:\学校用\講座フォルダ\2d_instruction\x64\Debug\2d_instruction.exe

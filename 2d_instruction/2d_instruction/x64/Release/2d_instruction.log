@@ -1,0 +1,34 @@
+﻿  block.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  Button.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  Common.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  FPS_control.cpp
+C:\学校用\講座フォルダ\2d_instruction\FPS_control.cpp(7,134): warning C4244: '初期化中': 'double' から '__int64' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\FPS_control.cpp(15,17): warning C4244: '初期化中': 'double' から '__int64' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\FPS_control.cpp(46,20): warning C4244: '引数': 'double' から 'DWORD' への変換です。データが失われる可能性があります。
+  game_control.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  Input.cpp
+  Load.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\main.cpp(29,12): warning C4244: '引数': 'time_t' から 'int' への変換です。データが失われる可能性があります。
+  menu.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  music.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  player.cpp
+  stage.cpp
+C:\学校用\講座フォルダ\2d_instruction\Common.h(24,10): warning C4244: 'return': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(32,71): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+C:\学校用\講座フォルダ\2d_instruction\stage.cpp(32,68): warning C4244: '引数': 'short' から 'unsigned char' への変換です。データが失われる可能性があります。
+  stage_load.cpp
+  tetris.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 253 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  2d_instruction.vcxproj -> C:\学校用\講座フォルダ\2d_instruction\x64\Release\2d_instruction.exe
